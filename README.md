@@ -143,12 +143,3 @@ Areas I want to keep improving:
 
 * Frontend Mentor - [@MathCat0000](https://www.frontendmentor.io/profile/MathCat0000)
 
-````
-
-Replace before publishing:
-
-```text
-https://github.com/MathCat0000/faq-accordion
-https://your-live-site-url.com
-./screenshot.jpg
-
