@@ -1,9 +1,4 @@
-Corrections:
 
-* “Write this readme” → “Write this README.”
-* “README” is usually written uppercase.
-
-````md
 # Frontend Mentor - FAQ accordion solution
 
 This is my solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz).
@@ -156,4 +151,4 @@ Replace before publishing:
 https://github.com/MathCat0000/faq-accordion
 https://your-live-site-url.com
 ./screenshot.jpg
-````
+
